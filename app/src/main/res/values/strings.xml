@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="developed_by_pavis">Developed By pavis</string>
+    <string name="activity_see_all_books">All Books</string>
+    <string name="activity_book">Book Details</string>
+    <string name="activity_alreadyreadbooks">Books You Already Read</string>
+    <string name="activity_fav_books">Favourite Books</string>
+    <string name="activity_currently_readingbooks">Books You are Currently Reading</string>
+    <string name="acitivity_wantoread">Want To Read Books</string>
+
+</resources>
